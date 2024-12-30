@@ -1,5 +1,5 @@
 {
-  "version": 1.0.2,
+  "version": 1.2,
   "link": "https://github.com/skidsploiter/skidware-downloads/raw/refs/heads/main/skidware-beta.zip",
   "path": "%TEMP%\\Skidware1.0\\Skidware",
   "website": "https://getskidware.vercel.app"
