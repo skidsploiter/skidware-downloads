@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "link": "https://github.com/skidsploiter/skidware-downloads/raw/refs/heads/main/skidware-beta.zip",
-  "path": "Skidware1.0\\Skidware",
+  "path": "swr\\Skidware",
   "website": "https://skidware.vercel.app/thankyou.html",
-  "exe": "Skidware1.0\\skidware\\net8.0\\Skidware.exe"
+  "exe": "Skidware\\skidware\\net8.0\\Skidware.exe"
 }
